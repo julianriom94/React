@@ -1,46 +1,28 @@
 {
-<<<<<<< HEAD
   "tareas": [
     {
       "titulo": "Tarea 1",
       "responsable": "Marc",
-      "descripcion": "Descripcion 1"
+      "descripcion": "Descripcion 1",
+      "prioridad" : "baja"
     },
     {
       "titulo": "Tarea 2",
       "responsable": "John",
-      "descripcion": "Descripcion 2"
+      "descripcion": "Descripcion 2",
+      "prioridad" : "media"
     },
     {
       "titulo": "Tarea 3",
       "responsable": "Cindy",
-      "descripcion": "Descripcion 3"
+      "descripcion": "Descripcion 3",
+      "prioridad" : "media"
     },
     {
       "titulo": "Tarea 4",
       "responsable": "Marie",
-      "descripcion": "Descripcion 4"
+      "descripcion": "Descripcion 4",
+      "prioridad" : "alta"
     }
   ]
 }
-=======
-  "titulo": "Tarea 1",
-  "responsable": "Marc",
-  "descripcion": "Descripcion 1"
-},
-{
-  "titulo": "Tarea 2",
-  "responsable": "John",
-  "descripcion": "Descripcion 2"
-},
-{
-  "titulo": "Tarea 3",
-  "responsable": "Cindy",
-  "descripcion": "Descripcion 3"
-},
-{
-  "titulo": "Tarea 4",
-  "responsable": "Marie",
-  "descripcion": "Descripcion 4"
-},
->>>>>>> 00eb903bf4935d114348685f4ed34f34db036a40
